@@ -9,5 +9,7 @@
 
  ## Simultaneously Realization of Image Enhancement Techniques On Real-Time Fpga
 
- [Reference 8](8/Simultaneously_Realization_of_Image_Enhancement_Techniques_on_Real-Time_Fpga.pdf)
+ [Reference 8](Reference8/Simultaneously_Realization_of_Image_Enhancement_Techniques_on_Real-Time_Fpga.pdf)
  [writeup](8/writeup.docx)
+
+ [Reference 12](reference12/../reference%2012/Are_We_There_Yet_A_Study_on_the_State_of_High-Level_Synthesis.pdf)
